@@ -10,7 +10,6 @@ This repository contains the complete code and analysis for predicting UK reside
 
 - [Project Overview](#project-overview)
 - [Key Findings](#key-findings)
-- [Repository Structure](#repository-structure)
 - [Installation & Setup](#installation--setup)
 - [Data Download](#data-download)
 - [Reproduction Instructions](#reproduction-instructions)
