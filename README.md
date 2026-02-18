@@ -450,22 +450,4 @@ SOFTWARE.
 **Last Updated:** February 2026  
 **Status:** ✅ Complete — Ready for reproduction
 
----
-
-## Quick Start Checklist
-
-- [ ] Clone repository
-- [ ] Create virtual environment
-- [ ] Install dependencies (`pip install -r requirements.txt`)
-- [ ] Download `pp-complete.csv` from HM Land Registry
-- [ ] Place data file in `data/` folder
-- [ ] Launch Jupyter (`jupyter notebook data_preprocessing_eda_v2.ipynb`)
-- [ ] Run all cells (Kernel → Restart & Run All)
-- [ ] Verify outputs in `outputs/` folder
-- [ ] Check final results match report values
-
 **Estimated total time:** 45-60 minutes (including download)
-
----
-
-*For the complete academic report and detailed analysis, see `report/UK_House_Price_Final.docx`*
